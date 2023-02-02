@@ -1,3 +1,8 @@
+* 상세 설명
+https://mise.tistory.com/154
+
+
+
 1. 사용방법  
 
 ![02-01_001](https://user-images.githubusercontent.com/47657651/216205280-c581b60f-0999-4625-8cb2-0d03d45d3acd.png)
